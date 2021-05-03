@@ -7,7 +7,7 @@ For Contribution
 
 1.**Fork & star** the project.
 
-2.Create a file same as the file format for different **programnming language**.
+2.Create a file same as the file format for different **programming language**.
 3.Now write all the codes/programms and please Make its Documentation clear so that everyone understands it clearly.
 
 4.you can take reference from the other files in our repository.
