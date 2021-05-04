@@ -13,6 +13,8 @@ For Contribution
 
 4. you can take reference from the other files in our repository.
 
+5. Please create *issue* first if you want to change and make corrections by providing detail.
+
 When you are done with your changes, and you have checked the new changes you made, you can create a pull request and if it satisfies the requirements, it would be merged.
 
 Kudos to you🎈
