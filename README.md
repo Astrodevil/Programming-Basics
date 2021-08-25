@@ -1,5 +1,5 @@
 # Programming-Basics
-### 🤗You can add more *Programming Language* just create a folder name eg: javascript,python...etc. & put all files related to specific language inside it. 🎊😎
+### 🤗You can add more *Programming Language* just create a folder name eg: java,python...etc. & put all files related to specific language inside it. 🎊😎
 ## Contributing Guidelines
 
 Thank you for your interest in contributing to our Repo! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
