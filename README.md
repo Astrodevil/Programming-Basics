@@ -30,7 +30,7 @@ Thank you for your interest in contributing to our Repo! Pull requests are welco
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/Astrodevil/Programming-Basics) repository.
+**1.**  **Star** and **Fork** [this](https://github.com/Astrodevil/Programming-Basics) repository.
 
 **2.**  Clone your forked copy of the project.
 
