@@ -1,29 +1,3 @@
-[![Hacktoberfest 2021](./assets/hacktober.png)](https://hacktoberfest.digitalocean.com/)
-
-# Programming-Basics
-<div align="center">
-
-![Hactoberfest](https://img.shields.io/badge/Hactoberfest-%E2%9D%A4-red)    
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) 
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![Begginers Friendly](https://img.shields.io/badge/Begginer%20Friendly%20-Yes-orange)
-[![GitHub issues](https://img.shields.io/github/issues/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/network)
-[![GitHub stars](https://img.shields.io/github/stars/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/stargazers)
-
-</div>
-
-# About❓
-Want to start your open-source journey? You are at right place🎯
-
-This project contains basic solutions, source codes, book pdfs related to different programming languages🤗. As everyone is learning one or many programming languages, so contribution to this project will be very easy for you.
-
-You can also take help from this project towards your learning or you can contribute to make this more helpful for others.
-
-**So, What are you waiting for?**
-
 # Contributing Guidelines📝
 Thank you for your interest in contributing to our Repo! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -100,10 +74,3 @@ git push -u origin <your_branch_name>
 **Thank you for your interest in contributing to our Repo!🏼**
 
 **Kudos to you🎈**
-
-
-
-# Our valuable Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/Astrodevil/Programming-Basics/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Astrodevil/Programming-Basics" />
-</a>
