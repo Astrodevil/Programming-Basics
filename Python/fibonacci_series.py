@@ -9,10 +9,10 @@ def fibonacci(n):
     try:
         n = int(n)
     except ValueError:
-        raise TypeError("fibonacci series is only available for n-digits, where n is an integer >= 1")
+        raise TypeError("fibonacci series is only available for n-digits, where n is an integer, and n >= 1")
         
     if n < 1:
-        raise ValueError("fibonacci series is only available for n-digits, where n is an integer >= 1")
+        raise ValueError("fibonacci series is only available for n-digits, where n is an integer, and n >= 1")
         
     # when we are assured that the value of n is correct,
     # we can find the fibonacci sequence
@@ -30,5 +30,5 @@ def fibonacci(n):
 
 
 if __name__ == "__main__":
-    n = input("Enter the Number of Elements of Fibonacci Series: ")
+    n = input("Enter the Number of Elements of Fibonacci Series (n >= 1, and type(n) = int): ")
     print(fibonacci(n))
