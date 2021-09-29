@@ -1,5 +1,5 @@
 [![Hacktoberfest 2021](./assets/hacktober.png)](https://hacktoberfest.digitalocean.com/)
-
+## [Hactoberfest FAQs](https://hacktoberfest.digitalocean.com/faq)
 # Programming-Basics
 <div align="center">
 
