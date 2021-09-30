@@ -24,7 +24,7 @@
 ## How to run
 
 - **We've 2 files here in order to encrypt the image & then decrypt the message hidden inside that image :**
-    1. One for encrypting the file. File can be found [here]()
-    2. One for decrypting the file. File can be found [here]()
+    1. One for encrypting the file. File can be found [here](https://github.com/nitin30kumar/Programming-Basics/blob/main/Python/Projects/Steganography%20Project/encrypt_steganography.py)
+    2. One for decrypting the file. File can be found [here](https://github.com/nitin30kumar/Programming-Basics/blob/main/Python/Projects/Steganography%20Project/decrypt_steganography.py)
 
 __One information - File should be encrypted with .png extension only__
