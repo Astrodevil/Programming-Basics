@@ -13,6 +13,7 @@
 
 1. PyCharm Community (preferred by me)
 2. pip installed
+3. An image & the message
 
 ## Modules needed
 
