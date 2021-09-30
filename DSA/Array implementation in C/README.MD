@@ -13,9 +13,9 @@
 
 # Files
 
-1. Traversal code can be seen [here]().
-2. Insertion code can be seen [here]().
-3. Deletion code can be seen [here]().
+1. Traversal code can be seen [here](https://github.com/nitin30kumar/Programming-Basics/blob/main/DSA/Array%20implementation%20in%20C/traversal.c).
+2. Insertion code can be seen [here](https://github.com/nitin30kumar/Programming-Basics/blob/main/DSA/Array%20implementation%20in%20C/insertion.c).
+3. Deletion code can be seen [here](https://github.com/nitin30kumar/Programming-Basics/blob/main/DSA/Array%20implementation%20in%20C/deletion.c).
 
 __This is the full array implementation in C language__
 
