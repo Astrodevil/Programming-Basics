@@ -1,3 +1,11 @@
+# System Requirements 
+- Python Version (>3.8)
+
+> Modules used :
+- Selenium (version - 4.0.0)
+
+> Additional Tools :
+- Chrome WebDriver(version - 94.0.4606.61)
 # workflow
 
 ``` bash
@@ -19,3 +27,4 @@ On choosing choice-1 : single message command
 On choosing choice-2 : spamming with message command
 ```
 <img src='./4.jpg' />
+
