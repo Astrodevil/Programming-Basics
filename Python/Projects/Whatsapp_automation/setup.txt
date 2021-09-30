@@ -1,0 +1,6 @@
+Python Version (>3.8)
+Modules used :
+      - Selenium (version - 4.0.0)
+
+Additional Tools :
+      - Chrome WebDriver(version - 94.0.4606.61)
