@@ -1,3 +1,4 @@
+// Find if a string is palindrome or not using DeQue
 #include<iostream>
 using namespace std;
 
