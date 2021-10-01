@@ -1,0 +1,17 @@
+Module used -
+tkinter
+pytube
+
+
+---- pip install tk
+---- pip install pytube
+
+
+pytube used to retrive youtube video through link and download that youtube video
+tkinter module is used to create a gui.
+
+-- open the file and install the given py module and click run.
+-- copy the link of youtube video
+-- paste it 
+-- select the format and folder where to save
+-- click on the download button.
