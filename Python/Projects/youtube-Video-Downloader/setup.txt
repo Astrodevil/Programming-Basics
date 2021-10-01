@@ -1,6 +1,8 @@
+Python Version (>3.8)
+
 Module used -
-tkinter
-pytube
+tkinter (8.6.9)
+pytube (10.8.0)
 
 
 ---- pip install tk
