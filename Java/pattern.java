@@ -4,7 +4,7 @@
 //  123
 // 1234
 import java.util.Scanner;
-public class solution {
+public class pattern {
 
 
 	public static void main(String[] args) {
