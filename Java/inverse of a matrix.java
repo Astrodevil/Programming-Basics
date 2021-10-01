@@ -1,5 +1,3 @@
-// inverse of a matrix using Gauss Jordan Method
-
 import java.util.Scanner;
  
 public class matInv{
@@ -94,7 +92,7 @@ public class matInv{
         for (int i=0; i<n; ++i){
 
             double c1 = 0;
-            
+
             for (int j=0; j<n; ++j){
 
                 double c0 = Math.abs(a[i][j]);
