@@ -2,18 +2,19 @@ Python Version (>3.8)
 
 Module used -
 tkinter (8.6.9)
-pytube (10.8.0)
+Pillow (8.1.2)
 
 
 ---- pip install tk
----- pip install pytube
+---- pip install Pillow
 
 
-pytube used to retrive youtube video through link and download that youtube video
 tkinter module is used to create a gui.
+Pillow module imported as PIL is used to add image in the gui
 
--- open the file and install the given py module and click run.
--- copy the link of youtube video
--- paste it 
--- select the format and folder where to save
--- click on the download button.
+-- open the file and install the given python modules and click run.
+-- enter username and pasword. 
+username = user123
+password = password@123
+-- from the 's' button in the password field you can view the entered password
+-- click on submit.
