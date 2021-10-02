@@ -12,7 +12,8 @@ Pillow (8.1.2)
 tkinter module is used to create a gui.
 Pillow module imported as PIL is used to add image in the gui
 
--- open the file and install the given python modules and click run.
+-- install the given python modules above. 
+-- Open this folder vs code or any other IDE and click run.
 -- enter username and pasword. 
 username = user123
 password = password@123
