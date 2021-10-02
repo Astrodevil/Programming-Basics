@@ -1,3 +1,31 @@
+"""
+Question: You are given an integer,N. Your task is to print an alphabet rangoli of size N. 
+
+Examples of Alphabet Rangoli
+
+->size 3
+
+----c----
+--c-b-c--
+c-b-a-b-c
+--c-b-c--
+----c----
+
+->size 5
+
+--------e--------
+------e-d-e------
+----e-d-c-d-e----
+--e-d-c-b-c-d-e--
+e-d-c-b-a-b-c-d-e
+--e-d-c-b-c-d-e--
+----e-d-c-d-e----
+------e-d-e------
+--------e--------
+
+"""
+
+
 import string
 alpha = string.ascii_lowercase
 
