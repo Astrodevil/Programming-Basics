@@ -4,8 +4,11 @@ code{
     padding-left: 2px;
 }
 header{
-    background-color: #FEAB6A;
+    background-color: #FFC898;
 }
+/*  Header background color initialy: FEAB6A */
+
+/* F9F3DF */
 html {
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
@@ -25,6 +28,9 @@ section {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  font-family: 'Kaushan Script',cursive !important;
+  font-weight:500;
+  font-size:50px;
 }
 figcaption,
 figure,
@@ -420,18 +426,19 @@ img::-moz-selection {
     display: inline-block;
     margin-bottom: 1rem;
     color: rgba(0, 0, 0, 0.8);
-    background-color: rgba(255, 255, 255, 0.08);
-    border-color: rgba(0, 0, 0, 0.8);;
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: transparent;
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
   }
   .btn:hover {
-    color: rgba(255, 255, 255, 0.8);
+    color: #3b3b3b;
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3);
+    border-color: transparent;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
   }
   .btn + .btn {
     margin-left: 1rem;
