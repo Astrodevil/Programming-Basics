@@ -9,3 +9,6 @@ this continues until some one left with no card.
 
 if the compared cards have same value than a situation of war arises,
 in which the take another card and who so ever wins keep the all the card on the war. 
+
+# to stimulate this game you just have to download or paste the code in any your IDE or editor
+# which is compatible with running python codes.
