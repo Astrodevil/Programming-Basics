@@ -1,0 +1,14 @@
+Python Version (>3.8)
+
+Module used -
+tkinter (8.6.9)
+
+---- pip install tk
+
+
+tkinter module is used to create a gui.
+
+-- download the above given module
+-- open the cal.py 
+-- click on run. 
+-- start calculating and from Hist button you can view the results history in list format.
