@@ -18,7 +18,7 @@
 # About❓
 Want to start your open-source journey? You are at right place🎯
 
-This project contains basic solutions, source codes, book pdfs related to different programming languages🤗. As everyone is learning one or many programming languages, so contribution to this project will be very easy for you.
+This project contains basic solutions, source codes, Projects, Games, book pdfs related to different programming languages🤗. As everyone is learning one or many programming languages, so contribution to this project will be very easy for you.
 
 You can also take help from this project towards your learning or you can contribute to make this more helpful for others.
 
