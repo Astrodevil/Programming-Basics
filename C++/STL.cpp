@@ -284,7 +284,7 @@ void algosDemo()
 	//sort(dataType.begin(),dataType.end());
 
 	//reverse string
-	// reverse(string,begin(),string.end())
+	// reverse(string,begin(),string.end());
 }
 
 int main(void)
