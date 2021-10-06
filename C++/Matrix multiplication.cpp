@@ -35,7 +35,7 @@ mul[i][j]+=a[i][k]*b[k][j];
 }    
 }    
 }    
-//--> PRINTING  
+//--> PRINTING  MATRIX
 for(i=0;i<r;i++)    
 {    
 for(j=0;j<c;j++)    
