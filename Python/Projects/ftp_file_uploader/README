@@ -1,0 +1,57 @@
+ _____ _____ ____    _____ ___   ___  _     
+|  ___|_   _|  _ \  |_   _/ _ \ / _ \| |    
+| |_    | | | |_) |   | || | | | | | | |    
+|  _|   | | |  __/    | || |_| | |_| | |___ 
+|_|     |_| |_|       |_| \___/ \___/|_____|
+  ## FTP-Tool is a tool that uploads specific files in an specific folder in ftp server 
+	made with <3 by Koddi Angelo Evangelista.
+
+  Note: The use of Python3 is highly preferred over Python2. Consider upgrading Python if
+				you find yourself still using Python2 today.
+
+	Note: This tool automates the installation of all dependencies.
+				So you don't need to manually install python modules. :)))
+
+	## SETTING UP THE FTP SERVER
+	- put your hostname in the configs.ini
+	- put your ideal working directory in the ftp server
+
+  ## SETTING UP AUTHENTICATION CREDENTIALS
+	- encrypt your username and password to base64 here: https://www.base64encode.org/
+	- put the encrypted credentials on the configs.ini
+
+	## SETTING UP GLOBAL VARIABLES
+	- In src/variables.py:
+		- Put the filenames(w/extension) of the file that you want to upload in FILES_TO_GATHER variable.
+		- Put the directory path where it belongs in the SPECIFIC_DIRECTORIES variable.
+			note: There is two SPECIFIC_DIRECTORIES variable with different path implementations.
+						One is for windows/DOS users and one is for unix/unix-like(linux and mac) users. Just uncomment the one that you are working with.
+
+
+  ## USAGE
+	- Run the main.py
+		sample usage:
+			- python3 main.py
+	- Wait until the task is completed and view the outputs in the outputs folder.
+
+
+	## FILE STRUCTURE
+	Note: don't try to modify the file structure of the system.
+
+	|_ outputs/
+	|  |_ {date}/ (contains the gathered files)
+	|  
+	|_ main.py (The one that runs the program.)
+	|_ src/ (Where all the business logic goes.)
+	|  |_ *.py
+	|_ configs.ini (Where you can put all the key-value pairs that need on the ftp athentication)
+
+	## ERRORS
+	  1.) 530 User cannot log in
+		      - login credentials is incorrect. make sure your username and password is correct.
+		2.) 'utf-8' codec can't decode byte 0xb1 in position 0: invalid start byte
+		      - make sure your username and password is encrypted in base64
+		3.) Error: Incorrect Argument!!
+				- your argument is incorrect. check the allowed arguments above.
+		4.) Error: Only 1 argument is allowed'
+				- you can use more than 1 argument in each run of the tool.
