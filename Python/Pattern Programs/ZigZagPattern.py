@@ -1,4 +1,10 @@
-import numpy as np
+#Concept :
+#Take input from user
+#Input no. of rows
+#Input no. of columns
+#Output :
+#no. from one to n , till the given no, of column
+#stop the line at the given row and start the pattern again from the next column.
 
 rows = int(input("Enter number of rows - "))
 cols = int(input("Enter number of columns - "))
