@@ -99,7 +99,7 @@ git push -u origin <your_branch_name>
 
 **15.** Woohoo! You have made a PR to the Programming-Basics :boom: . Wait for your submission to be accepted and your PR to be merged.
 
-Not able to understand how to contribute? Let's go through [simple tutorisls](https://github.com/nitinkumar30/Programming-Basics/tree/main/How%20to%20begin%20with%20hacktober%20fest%202021) on how to begin.
+Not able to understand how to contribute? Let's go through [simple tutorials](https://github.com/nitinkumar30/Programming-Basics/tree/main/How%20to%20begin%20with%20hacktober%20fest%202021) on how to begin.
 
 **Thank you for your interest in contributing to our Repo!🏼**
 
