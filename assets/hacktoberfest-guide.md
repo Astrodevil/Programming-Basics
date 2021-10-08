@@ -128,7 +128,7 @@ This will be the format under Contributions Tab.
 
 # Author
 
-[Nitin Kumar](https://github/com/nitinkumar30/)
+[Nitin Kumar](https://github.com/nitinkumar30/)
 
 
 
