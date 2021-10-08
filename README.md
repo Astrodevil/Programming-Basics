@@ -19,7 +19,7 @@
 Want to start your open-source journey? You are at right place🎯
 
 
-**Don't know how to begin your journey in Hacktober fest 2021? Follow our [tutorials](https://github.com/nitinkumar30/Programming-Basics/tree/main/How%20to%20begin%20with%20hacktober%20fest%202021).**
+**Don't know how to begin your journey in Hacktober fest 2021? Follow our [tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md).**
 
 This project contains basic solutions, source codes, book pdfs related to different programming languages🤗. As everyone is learning one or many programming languages, so contribution to this project will be very easy for you.
 
@@ -101,7 +101,7 @@ git push -u origin <your_branch_name>
 
 **15.** Woohoo! You have made a PR to the Programming-Basics :boom: . Wait for your submission to be accepted and your PR to be merged.
 
-**Not able to understand how to contribute? Let's go through [simple tutorials](https://github.com/nitinkumar30/Programming-Basics/tree/main/How%20to%20begin%20with%20hacktober%20fest%202021) on how to begin.**
+**Not able to understand how to contribute? Let's go through [simple tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md) on how to begin.**
 
 **Thank you for your interest in contributing to our Repo!🏼**
 
