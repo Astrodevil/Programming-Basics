@@ -21,7 +21,7 @@ Want To Start your Open-Source Journey Without Facing Difficulties?,If Yes, Then
 
 **Don't Know How to Begin Your Journey in Hacktober Fest 2021? Follow Our [Tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md).**
 
-This Project Contains Basic Solutions, Source Codes, Book Pdfs related to Different Programming Languages🤗. As Everyone is Learning One or More Programming Languages, So Contribution to This Project Will be Very Easy for You!.
+This Project Contains Basic Solutions, Source Codes, Projects, Games, Book Pdfs related to Different Programming Languages🤗. As Everyone is Learning One or More Programming Languages, So Contribution to This Project Will be Very Easy for You!.
 
 
 You can Also Take Help from This Project Towards Your Learning or You Can Contribute to Make This More Helpful for Others.
