@@ -20,7 +20,7 @@ int row_start=0;int row_end=n-1;int column_start=0;int column_end=m-1;
 while(row_start<=row_end && column_start<=column_end)
 {
     //for row start
-    for (int col=column_start ;col<=column_end;col++){ //-----------
+    for (int col=column_start ;col<=column_end;col++){ 
         cout<<array[row_start][col]<<" ";
     }
     row_start++;
@@ -33,8 +33,8 @@ while(row_start<=row_end && column_start<=column_end)
   column_end--;
 
 //for row end
-//if(row_start<=row_end)
-    //{
+
+    
 for (int col= column_end;col>=column_start;col--)
 {        
 
