@@ -10,7 +10,7 @@ int array[n][m];
 for (int i=0;i<n;i++){  //rows
     for (int j=0;j<m;j++){ //columns
     cout<<" enter the array elements: "<<endl;
-//    cin>>array[n][m]; mistake
+
     cin>>array[i][j];
     }
 }
