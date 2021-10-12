@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/flipping-bits/problem
+
 #include <bits/stdc++.h>
 #include<iostream>
 using namespace std;
