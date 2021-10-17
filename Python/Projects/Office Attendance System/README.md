@@ -10,19 +10,21 @@
   - Unique id generation features for attendance
   - View all details page
 
+## Instructions
 
-## 📸 Screenshots:-
+**Step 1**
+Install the TKinter using the below command 
 
-<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/1.png"></img>
-<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/5.png"></img>
-<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/3.png"></img>
-<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/4.png"></img>
-<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/2.png"></img>
+```
+pip install tk
+
+```
+
+**Step 2**
+Then make a copy or download the **main.py** file and run using python compiler.
 
 
-
-
-## Libraries required
+## Libraries used
 
 ```
 import os  
@@ -35,3 +37,17 @@ import os
 
 ```
 
+
+## 📸 Screenshots:-
+
+<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/1.png"></img>
+<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/5.png"></img>
+<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/3.png"></img>
+<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/4.png"></img>
+<img src="https://github.com/m0hit-kumar/Programming-Basics/blob/main/Python/Projects/Office%20Attendance%20System/images/2.png"></img>
+
+
+
+
+# Contributor
+Mohit kumar(https://github.com/m0hit-kumar)
