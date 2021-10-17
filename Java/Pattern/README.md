@@ -10,7 +10,7 @@ Pattern programs are nothing just patterns which consists of numbers, alphabets,
 
 * Also popularly asked in campus placements & job interviews.
 
-## Links to find C Pattern Programs 
+## Links to find Java Pattern Programs 
 
 * [Star Pattern](https://www.javainterviewpoint.com/star-pattern-programs-in-java/)
 
