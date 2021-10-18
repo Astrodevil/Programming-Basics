@@ -1,0 +1,18 @@
+There are N people participating in a race. The Nth
+
+participant is your friend, so you want him to win. You are not a man of ethics, so you decided to inject some units of a Performance Enhancement Drug (don't ask where that came from) in your friend's body.
+
+    From the charts, you came to know the speed of every player. Formally, for a player i
+
+, his speed is denoted by Si
+.
+The change in speed with one unit of the drug is K
+units. Note that K
+can be negative, which means the drug has more side effects than benefits.
+Of course, there will be a drug test before the race, so your friend will be caught if the number of units of the drug in his blood is greater than or equal to L
+
+    .
+
+You need to determine whether you can help your friend to win the race (with or without drugs), without getting caught.
+
+Note: A player wins the race if he has the maximum speed among all the participants. If there are more than one people with a maximal speed, they tie at first place, and no one wins!
