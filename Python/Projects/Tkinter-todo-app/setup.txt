@@ -1,0 +1,14 @@
+Python Version (>3.8)
+
+Module used -
+tkinter (8.6.9)
+
+---- pip install tk
+
+
+tkinter module is used to create a gui.
+
+steps - 
+1) install the tkinter module from the given command.
+2) open the code in the code editor.
+3) run the todoapp.py file.
