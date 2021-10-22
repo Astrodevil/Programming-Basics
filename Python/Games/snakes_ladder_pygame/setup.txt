@@ -1,0 +1,14 @@
+Python Version (>3.8)
+
+Module used -
+pygame (2.0.1)
+
+---- pip install pygame
+
+
+pygame module is used to make a user interface and to run the game in a loop.
+
+steps - 
+1) install the pygame module from the given command.
+2) open the code in the code editor. (make sure open the snakes_ladder_pygame folder in the editor or else it will show error of assest.)
+3) run the main.py file.
