@@ -7,103 +7,109 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-![Begginers Friendly](https://img.shields.io/badge/Begginer%20Friendly%20-Yes-orange)
-[![GitHub issues](https://img.shields.io/github/issues/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/network)
-[![GitHub stars](https://img.shields.io/github/stars/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/stargazers)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+![Beginners Friendly](https://img.shields.io/badge/Beginner%20Friendly%20-Yes-orange)
+[![GitHub Issues](https://img.shields.io/github/issues/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/issues)
+[![GitHub Forks](https://img.shields.io/github/forks/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/network)
+[![GitHub Stars](https://img.shields.io/github/stars/Astrodevil/Programming-Basics)](https://github.com/Astrodevil/Programming-Basics/stargazers)
 
 </div>
 
 # About❓
-Want to start your open-source journey? You are at right place🎯
+Want To Start your Open-Source Journey Without Facing Difficulties?,If Yes, Then You Are at The Right Place!🎯
 
-This project contains basic solutions, source codes, Projects, Games, book pdfs related to different programming languages🤗. As everyone is learning one or many programming languages, so contribution to this project will be very easy for you.
 
-You can also take help from this project towards your learning or you can contribute to make this more helpful for others.
+**Don't Know How to Begin Your Journey in Hacktober Fest 2021? Follow Our [Tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md).**
 
-**So, What are you waiting for?**
+This Project Contains Basic Solutions, Source Codes, Projects, Games, Book Pdfs related to Different Programming Languages🤗. As Everyone is Learning One or More Programming Languages, So Contribution to This Project Will be Very Easy for You!.
+
+
+You can Also Take Help from This Project Towards Your Learning or You Can Contribute to Make This More Helpful for Others.
+
+**So, What are you Waiting For?**
 
 # Contributing Guidelines📝
-Thank you for your interest in contributing to our Repo! Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Thanks a Ton for Showing Your Interest in Contributing to our Repo! Pull requests are Welcome. For Major Changes, Please Open an Issue First to Discuss What you would like to Change.
 
 
-To start contributing, follow the below guidelines: 
+To Start Contributing To This Repo, Follow the Below Guidelines: 
 
-**1.**  **Star** and **Fork** [this](https://github.com/Astrodevil/Programming-Basics) repository.
+**1.**  **Star** and **Fork** [this](https://github.com/Astrodevil/Programming-Basics) Repository.
 
-**2.**  Clone your forked copy of the project.
+**2.**  Clone your Forked Copy of the Project.
 
 ```
 git clone https://github.com/<your_user_name>/Programming-Basics.git
 ```
 
-**3.** Navigate to the project directory :file_folder: .
+**3.** Navigate to The Project Directory :file_folder: .
 
 ```
 cd Programming-Basics
 ```
 
-**4.** Add a reference(remote) to the original repository.
+**4.** Add a Reference(remote) to the Original Repository.
 
 ```
 git remote add upstream https://github.com/Astrodevil/Programming-Basics.git 
 ```
 
-**5.** Check the remotes for this repository.
+**5.** Check the Remotes for This Repository.
 
 ```
 git remote -v
 ```
 
-**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+**6.** Always Take a Pull from the Upstream Repository to your Master Branch to Keep it at par with the Main Project(The Updated Repository).
 
 ```
 git pull upstream main
 ```
 
-**7.** Create a new branch.
+**7.** Create a New Branch.
 
 ```
 git checkout -b <your_branch_name>
 ```
 
-**8.** Perfom your desired changes to the code base.
+**8.** Perfom Your Desired Changes to the Code Base.
 
-**9.** Track your changes:heavy_check_mark: .
+**9.** Track your Changes:heavy_check_mark: .
 
 ```
 git add . 
 ```
 
-**10.** Commit your changes .
+**10.** Commit your Changes .
 
 ```
-git commit -m "Relevant message"
+git commit -m "(Type a Relevant and Appropriate Message)"
 ```
 
-**11.** Push the committed changes in your feature branch to your remote repo.
+**11.** Push the Committed Changes in your Feature Branch to your Remote Repo.
 
 ```
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`.
+**12.** To Create a Pull Request, Click on  `Compare and Pull requests`.
 
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+**13.** Add Appropriate Title and Description to your Pull Request Explaining your Changes and Efforts Done.
 
-**14.** Click on `Create Pull Request`.
-
-
-**15.** Woohoo! You have made a PR to the Programming-Basics :boom: . Wait for your submission to be accepted and your PR to be merged.
-
-**Thank you for your interest in contributing to our Repo!🏼**
-
-**Kudos to you🎈**
+**14.** Click on  `Create Pull Request`.
 
 
+**15.** Wooohoo! You have Successfully Made a PR to the Programming-Basics :boom: . Wait for your Submission to be Accepted and Your PR to be Merged!.
 
-# Our valuable Contributors👩‍💻👨‍💻 :
+**Not Able to Understand How to Contribute? Let's Go Through [Simple Tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md) on How to Begin.**
+
+**Thanks a Ton for Showing Your Interest in Contributing to Our Repo!🏼**
+
+**Kudos to you!🎈**
+
+
+
+# Our Valuable Contributors👩‍💻👨‍💻 :
 <a href="https://github.com/Astrodevil/Programming-Basics/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Astrodevil/Programming-Basics" />
 </a>
