@@ -1,4 +1,4 @@
-package JAVA;
+// package JAVA;
 import java.util.Scanner;
 public class _2DArray {
     public static void main(String[] args) {
@@ -48,7 +48,7 @@ public class _2DArray {
             }System.out.println();
         }
 
-
+         sc.close();
     }
 }
 
