@@ -1,16 +1,24 @@
 #include <iostream>  
 using namespace std;  
+int reversDigits(int num)
+{
+    // converting number to string
+    string strin = to_string(num);
+ 
+    // reversing the string
+    reverse(strin.begin(), strin.end());
+ 
+    // converting string to integer
+    num = stoi(strin);
+ 
+    // returning integer
+    return num;
+}
 int main()  
+  
 {  
-int n, reverse=0, rem;    
+int num;   
 cout<<"Enter a number: ";    
-cin>>n;    
-  while(n!=0)    
-  {    
-     rem=n%10;      
-     reverse=reverse*10+rem;    
-     n/=10;    
-  }    
- cout<<"Reversed Number: "<<reverse<<endl;     
-return 0;  
-}  
+cin>>num;
+}
+  
