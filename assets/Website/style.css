@@ -1,10 +1,10 @@
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
-
-code{
-    padding-left: 2px;
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+code {
+  padding-left: 2px;
 }
-header{
-    background-color: #FFC898;
+header {
+  background-color: #ffc898;
 }
 /*  Header background color initialy: FEAB6A */
 
@@ -28,9 +28,9 @@ section {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
-  font-family: 'Kaushan Script',cursive !important;
-  font-weight:500;
-  font-size:50px;
+  font-family: "Kaushan Script", cursive !important;
+  font-weight: 500;
+  font-size: 50px;
 }
 figcaption,
 figure,
@@ -421,51 +421,50 @@ img::-moz-selection {
   visibility: hidden;
 }
 
-
 .btn {
-    display: inline-block;
-    margin-bottom: 1rem;
-    color: rgba(0, 0, 0, 0.8);
-    background-color: rgba(0, 0, 0, 0.08);
-    border-color: transparent;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 0.3rem;
-    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.08);
+  border-color: transparent;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+.btn:hover {
+  color: #3b3b3b;
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: transparent;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+.btn + .btn {
+  margin-left: 1rem;
+}
+@media screen and (min-width: 64em) {
+  .btn {
+    padding: 0.75rem 1rem;
   }
-  .btn:hover {
-    color: #3b3b3b;
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: transparent;
-    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .btn {
+    padding: 0.6rem 0.9rem;
+    font-size: 0.9rem;
+  }
+}
+@media screen and (max-width: 42em) {
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 0.9rem;
   }
   .btn + .btn {
-    margin-left: 1rem;
+    margin-top: 1rem;
+    margin-left: 0;
   }
-  @media screen and (min-width: 64em) {
-    .btn {
-      padding: 0.75rem 1rem;
-    }
-  }
-  @media screen and (min-width: 42em) and (max-width: 64em) {
-    .btn {
-      padding: 0.6rem 0.9rem;
-      font-size: 0.9rem;
-    }
-  }
-  @media screen and (max-width: 42em) {
-    .btn {
-      display: block;
-      width: 100%;
-      padding: 0.75rem;
-      font-size: 0.9rem;
-    }
-    .btn + .btn {
-      margin-top: 1rem;
-      margin-left: 0;
-    }
-  }
+}
 .container {
   margin-left: auto;
   margin-right: auto;
@@ -1024,7 +1023,7 @@ hr {
   font-family: Montserrat, Avenir, "Avenir Next", Trebuchet, Verdana, sans-serif;
 }
 .border--full {
-  border-color: #abb2c9;
+  border-color: #262b3a;
   border-style: solid;
   border-width: 1px;
 }
@@ -1394,4 +1393,102 @@ hr {
 }
 .clearfix:after {
   clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-family: "segoe ui";
+}
+
+.nav {
+  height: 50px;
+  width: 100%;
+  background-color: #4d4d4d;
+  position: relative;
+}
+
+.nav > .nav-header {
+  display: inline;
+}
+
+.nav > .nav-header > .nav-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 10px 10px 10px 10px;
+}
+
+.nav > .nav-btn {
+  display: none;
+}
+
+.nav > .nav-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+}
+
+.nav > .nav-links > a {
+  display: inline-block;
+  padding: 13px 10px 13px 10px;
+  text-decoration: none;
+  color: #efefef;
+}
+
+.nav > .nav-links > a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.nav > #nav-check {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .nav > .nav-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .nav > .nav-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .nav > .nav-btn > label:hover,
+  .nav #nav-check:checked ~ .nav-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .nav > .nav-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #eee;
+  }
+  .nav > .nav-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .nav > .nav-links > a {
+    display: block;
+    width: 100%;
+  }
+  .nav > #nav-check:not(:checked) ~ .nav-links {
+    height: 0px;
+  }
+  .nav > #nav-check:checked ~ .nav-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
 }

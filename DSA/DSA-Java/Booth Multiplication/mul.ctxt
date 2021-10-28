@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=mul
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=arg0
+comment3.target=void\ handle(javafx.event.ActionEvent)
+comment4.params=arg0
+comment4.target=void\ handle(javafx.event.ActionEvent)
+comment5.params=s1
+comment5.target=java.lang.String\ get2scomplement(java.lang.String)
+comment6.params=n
+comment6.target=java.lang.String\ getbinary(int)
+comment7.params=str
+comment7.target=java.lang.String\ shiftright(java.lang.String)
+comment8.params=s1\ s2
+comment8.target=java.lang.String\ binaryaddn(java.lang.String,\ java.lang.String)
+comment9.params=s
+comment9.target=void\ binarytodec(java.lang.String)
+numComments=10
