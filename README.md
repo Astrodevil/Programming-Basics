@@ -1,6 +1,5 @@
-[![Hacktoberfest 2021](./assets/hacktober.png)](https://hacktoberfest.digitalocean.com/)
-## [Hactoberfest FAQs](https://hacktoberfest.digitalocean.com/faq)
-# Programming-Basics
+
+# <h1 align="center">Programming-Basics</h1>
 <div align="center">
 
 ![Hactoberfest](https://img.shields.io/badge/Hactoberfest-%E2%9D%A4-red)    
@@ -19,7 +18,7 @@
 Want To Start your Open-Source Journey Without Facing Difficulties?,If Yes, Then You Are at The Right Place!🎯
 
 
-**Don't Know How to Begin Your Journey in Hacktober Fest 2021? Follow Our [Tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md).**
+**Don't Know How to Begin Your Journey in Hacktober Fest? Follow Our [Tutorials](https://github.com/Astrodevil/Programming-Basics/blob/main/assets/hacktoberfest-guide.md).**
 
 This Project Contains Basic Solutions, Source Codes, Projects, Games, Book Pdfs related to Different Programming Languages🤗. As Everyone is Learning One or More Programming Languages, So Contribution to This Project Will be Very Easy for You!.
 
@@ -27,6 +26,14 @@ This Project Contains Basic Solutions, Source Codes, Projects, Games, Book Pdfs 
 You can Also Take Help from This Project Towards Your Learning or You Can Contribute to Make This More Helpful for Others.
 
 **So, What are you Waiting For?**
+# This Project is a part of the following Open Source Program❤️
+<p align="center">
+<a href="https://hacktoberfest.digitalocean.com/"  target="_blank"> 
+  <img src="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/blob/main/assets/Images/hacktober.png" alt="Hacktoberfest" width="350"/>
+</a>
+    &nbsp;&nbsp;
+
+**[Hactoberfest FAQs](https://hacktoberfest.digitalocean.com/faq)**
 
 # Contributing Guidelines📝
 Thanks a Ton for Showing Your Interest in Contributing to our Repo! Pull requests are Welcome. For Major Changes, Please Open an Issue First to Discuss What you would like to Change.
