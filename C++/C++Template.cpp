@@ -32,6 +32,11 @@ class Maths
         float result=num1/num2;
         return result;
     }
+    T modulo()
+    {
+        T result = num1%num2;
+        return result;
+    }
     
 };
 
