@@ -28,9 +28,10 @@ You can Also Take Help from This Project Towards Your Learning or You Can Contri
 **So, What are you Waiting For?**
 # This Project is a part of the following Open Source Program❤️
 <p align="center">
-<a href="https://hacktoberfest.digitalocean.com/"  target="_blank"> 
-  <img src="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/blob/main/assets/Images/hacktober.png" alt="Hacktoberfest" width="350"/>
-</a>
+<table>
+<tbody><tr>
+<td align="center"><a href="https://hacktoberfest.digitalocean.com/"  target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzxUuUFuwuTwouTwDseIuzwkLBsDa6Z_0BzYX_x0jpqA&s" alt="Hacktoberfest" width="200"/><br><sub><b> Hacktoberfest 2022 </b></sub></a></td> </a></td>
+</table>
     &nbsp;&nbsp;
 
 **[Hactoberfest FAQs](https://hacktoberfest.digitalocean.com/faq)**
