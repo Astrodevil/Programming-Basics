@@ -29,6 +29,8 @@ int main(void)
 	num.push_back(0);
 	num.push_back(1);
 	num.push_back(9);
+	num.push_back(10);
+	num.pull_back(1);
 	vector<int> v2;
 	v2=addToArrayForm(num,8792);
 	for(int i=0;i<v2.size();i++)
