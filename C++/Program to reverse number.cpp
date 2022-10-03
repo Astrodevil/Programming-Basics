@@ -1,16 +1,21 @@
 #include <iostream>  
 using namespace std;  
-int main()  
-{  
-int n, reverse=0, rem;    
-cout<<"Enter a number: ";    
-cin>>n;    
+int reverseNum(int n){
+int reverse=0,rem;
   while(n!=0)    
   {    
      rem=n%10;      
      reverse=reverse*10+rem;    
      n/=10;    
-  }    
- cout<<"Reversed Number: "<<reverse<<endl;     
+  }   
+  return reverse;
+}
+int main()  
+{  
+int n;
+cout<<"Enter a number: ";    
+cin>>n;    
+ 
+ cout<<"Reversed Number: "<<reverseNum(n)<<endl;     
 return 0;  
 }  
