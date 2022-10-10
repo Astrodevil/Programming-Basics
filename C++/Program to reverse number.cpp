@@ -1,5 +1,6 @@
 #include <iostream>  
 using namespace std;  
+//reverse function
 int reverseNum(int n){
 int reverse=0,rem;
   while(n!=0)    
