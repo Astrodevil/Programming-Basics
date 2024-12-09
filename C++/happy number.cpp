@@ -14,28 +14,52 @@ Explanation:
 
 #include <iostream>
 using namespace std;
-int find(int n)
+
+
+int Sods(int n){ // Finds Square Digital Sum
+    int Sum = 0;
+    while(n!=0){
+        int mod = (n%10);
+        Sum += mod*mod;
+        n = n/10;
+    }
+    return Sum;
+}
+bool find(int n)
 {
-    
-    int sum=0,r;
-    while(n!=0)
-    {
-        r=n%10;
-        sum=sum+(r*r);
-        n=n/10;
+    /*
+    Tortise Hare Explanation:
+    we have two variables Slow and Fast and a function Sods which calculates the sum of squares of digits of the input number.
+    Each Iteration, We Run fast through Sods twice and run Slow through Sods once.
+    If we make Fast update 2 times as fast as slow, then we will be able to find any cycle and if Fast is ever 1, then we know that the number is happy.
+    Example:
+    Test=2
+    Fast | Slow
+    -----+-----
+     16  |  4
+     58  | 16
+     145 | 37
+     20  | 58
+     16  | 89
+     58  | 145
+     145 | 42
+     20  | 20
+    Since Fast is equal to Slow, 2 is an Unhappy Number
+    Cycle: 2→4→16→37→58→89→145→42→20→4→16...
+    */
+    int Fast = Sods(Sods(n));
+    int Slow = Sods(n);
+    if(Fast == 1){
+        return true; // Edge Case of n=1 which makes the while loop never happen but still is happy.
     }
-    
-    if ((sum==1)||(sum==7))
-    {
-        return 1;
-    
+    while(Fast != Slow){
+        if(Fast == 1){
+            return true;
+        }
+        Fast = Sods(Sods(Fast));
+        Slow = Sods(Slow);
     }
-    else if((sum==2)||(sum==3)||(sum==4)||(sum==5)||(sum==6)||(sum==8)||(sum==9))
-    {
-    return 0;
-    }
-    else
-    find(sum);
+    return false;
 }
 int main()
 {
